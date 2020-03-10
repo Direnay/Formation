@@ -8,6 +8,8 @@
 
 [Despentes](https://www.liberation.fr/debats/2020/03/01/cesars-desormais-on-se-leve-et-on-se-barre_1780212)
 
+[Lien vers hackmd](https://hackmd.io/aHAAIIX9Tyqq1D7mDBqr1Q?edit)
+
 Méthodes Agiles
 
 télécharger vscodium
