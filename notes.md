@@ -22,6 +22,10 @@ Liens résidence Filature :
 - https://danslajungle.oisiflorus.com/causse-et-vallee-de-la-bueges/bouillon-cube.html
 - https://bouilloncube.fr/jeunesse/
 
+### prise de notes
+
+[PO](https://github.com/pointbar/po)
+
 
 Journal
 ---
