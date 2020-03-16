@@ -14,13 +14,13 @@ Méthodes Agiles
 
 télécharger vscodium
 
-[running lean](http://lesvigies.fr/wp-content/uploads/2018/09/running-lean-ash.pdf
+[running lean](http://lesvigies.fr/wp-content/uploads/2018/09/running-lean-ash.pdf)
 
 
 Liens résidence Filature :
 
-https://danslajungle.oisiflorus.com/causse-et-vallee-de-la-bueges/bouillon-cube.html
-https://bouilloncube.fr/jeunesse/
+- https://danslajungle.oisiflorus.com/causse-et-vallee-de-la-bueges/bouillon-cube.html
+- https://bouilloncube.fr/jeunesse/
 
 
 Journal
