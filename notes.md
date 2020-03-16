@@ -14,6 +14,8 @@ Méthodes Agiles
 
 télécharger vscodium
 
+[running lean](http://lesvigies.fr/wp-content/uploads/2018/09/running-lean-ash.pdf)
+
 Journal
 ---
 9/03 
