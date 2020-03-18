@@ -54,3 +54,7 @@ _texte alternatif_ [^1]
 Pour les images sur mon site je place l'image sur _github_ 
 
 ![chien de traineau](./img_square_13.jpg)
+
+---
+
+[^1]: si il n'y a pas d'image
