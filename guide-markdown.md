@@ -60,5 +60,5 @@ Pour les images sur mon site je place l'image sur _github_
 [^1]: si il n'y a pas d'image
 
 test image
-[Diren Conteuse](./diren-conteuse.jpg)
-[souvenir douloureux](./20171122_003333.jpg)
+![Diren Conteuse](./diren-conteuse.jpg)
+![souvenir douloureux](./20171122_003333.jpg)
