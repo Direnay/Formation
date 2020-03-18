@@ -45,7 +45,7 @@ _compte_.github.io/_dépôt_
 par exemple :
 https://direnay.github.io/Formation
 
-### Créer un nouveau document
+### Créer unenouvelle page
 
 - aller dans le dépôt et cliquer sur _create new file_.
 - nommer le document
