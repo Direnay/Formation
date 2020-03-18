@@ -58,3 +58,6 @@ Pour les images sur mon site je place l'image sur _github_
 ---
 
 [^1]: si il n'y a pas d'image
+
+test image
+[Diren Conteuse](./thumbnail_sans dents-2.JPG)
