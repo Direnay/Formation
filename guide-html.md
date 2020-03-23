@@ -28,4 +28,4 @@ La plupart des ordres généraux (_balises html_) s'écrivent entre _<>_ ; pour 
 
 Pour insérer une image il faut utiliser cette balise :
 
-```<image src="adresse de l'image">
+```<image src="adresse de l'image">```
