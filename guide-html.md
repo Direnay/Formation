@@ -3,6 +3,8 @@
 Est le langage que les navigateurs reconnaissent. Il va attacher du sens aux contenus.
 Par exemple, demander qu'un mot soit considérer comme titre ou qu plusieurs mots soient considérés comme une liste ou qu'un fichier soit interprété comme une image, etc.
 
+[Guide HTML sur MDN](https://developer.mozilla.org/fr/docs/Apprendre/HTML/Introduction_%C3%A0_HTML)
+
 ## Débuter un document 
 
 Un document _html_ peut-être rédiger avec nimporte quel _éditeur de texte_ on doit faire attention à indiquer l'extension _.htm_ ou _.html_ par exemple : _conteuse.html_ pour qu'il puisse être interprété par un navigateur par exemple.
