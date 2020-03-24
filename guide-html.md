@@ -24,8 +24,70 @@ La plupart des ordres généraux (_balises html_) s'écrivent entre _<>_ ; pour 
 </html>
 ```
 
-## Insérer un image
+## Les listes
 
-Pour insérer une image il faut utiliser cette balise :
+Pour faire une liste de choses et d'autre (ex : pierre, feuille, ciseau. Liste de courses) il y a deux possibilité : 
 
-```<image src="adresse de l'image">```
+- [Unordered List UL](https://developer.mozilla.org/fr/docs/Web/HTML/Element/ul) :
+```
+<ul>
+    <li>élément</li>
+    <li>autre élément</li>
+</ul>
+ ```
+Permet d'obtenir une liste avec des points (bullet)
+<ul>
+    <li>élément</li>
+    <li>autre élément</li>
+</ul>
+
+---
+
+- [Ordered List OL](https://developer.mozilla.org/fr/docs/Web/HTML/Element/ol) :
+```
+<ol>
+    <li>élément</li>
+    <li>autre élément</li>
+</ol>
+ ```
+permet d'obtenir une liste avec des numéros par exemple pour une recette
+
+<ol>
+    <li>éplucher les pommes</li>
+    <li>manger les pépins</li>
+</ol>
+
+## Les titres
+Ils s'écrivent de cette façon et toujours entre des balises, contrairement à _markdown_ il faut les refermer : 
+```h1, h2, h3, ...```
+```<h1>Titre</h1>```
+
+ En les hierarchisant, du plus au moins important : h1 à h5
+ 
+## hr
+Cette anotation ```<hr>``` permet de faire apparaître une ligne de démarcation entre les différents contenue écrit. Sa forme (longueur, largeur, couleur...) peux être modifier en _css_ au même titre que les autres contenus
+
+## Liens
+
+Les liens _html_ se précisent par l'ancrage :
+
+```<a href="l'adresse URL">texte qui va apparaitre</a>```
+
+<a href="https://direnay.github.io/conteuse">La conteuse Diren</a>
+
+_anchor_ : a
+
+## Image
+
+Pour inclure une image la formule est la suivante : 
+```<img src="emplacement URL">```
+
+<img src="https://gite.equisud.com/img/img_square_13.jpg">
+ 
+Il peux être interessant d'ajouter un texte alternative au cas ou la photo ne s'affiche pas. Le texte alternatif s'affiche à la place. 
+Permet aussi aux mal voyants de savoir de quoi il s'agit. Ne remplace pas la légende. 
+Le contenu de l'alternative est concidéré par le moteur de recherche. 
+exemple :
+```<img src="emplacement" alt="ce que c'est">```
+
+Ainsi que la nommination de l'image. C'est à dire qu'il est plus intéressant de nommer comme on le souhaite l'image que de mettre par exemple: _image343_
