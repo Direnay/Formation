@@ -101,5 +101,5 @@ Ainsi que la nommination de l'image. C'est à dire qu'il est plus intéressant d
 La balise :
 ```<pre>```
 
-permet de préserer le texte sans l'interpréter par exemple une balise ne sera pas interprétée.
+permet de préserver le texte sans l'interpréter par exemple une balise ne sera pas interprétée.
 On l'utilise pour présenter du code ou des formules mathématiques.
