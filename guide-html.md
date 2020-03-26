@@ -60,6 +60,7 @@ permet d'obtenir une liste avec des numéros par exemple pour une recette
 </ol>
 
 ## Les titres
+
 Ils s'écrivent de cette façon et toujours entre des balises, contrairement à _markdown_ il faut les refermer : 
 ```h1, h2, h3, ...```
 ```<h1>Titre</h1>```
@@ -67,6 +68,7 @@ Ils s'écrivent de cette façon et toujours entre des balises, contrairement à 
  En les hierarchisant, du plus au moins important : h1 à h5
  
 ## hr
+
 Cette anotation ```<hr>``` permet de faire apparaître une ligne de démarcation entre les différents contenue écrit. Sa forme (longueur, largeur, couleur...) peux être modifier en _css_ au même titre que les autres contenus
 
 ## Liens
@@ -93,3 +95,11 @@ exemple :
 ```<img src="emplacement" alt="ce que c'est">```
 
 Ainsi que la nommination de l'image. C'est à dire qu'il est plus intéressant de nommer comme on le souhaite l'image que de mettre par exemple: _image343_
+
+### Le code
+
+La balise :
+```<pre>```
+
+permet de préserer le texte sans l'interpréter par exemple une balise ne sera pas interprétée.
+On l'utilise pour présenter du code ou des formules mathématiques.
