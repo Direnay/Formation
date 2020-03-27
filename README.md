@@ -1,3 +1,3 @@
 # Formation
 
-Ce dépôt permet ...
+Ce dépôt permet d'assimiler l'indigéreable
