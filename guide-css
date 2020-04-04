@@ -1,1 +1,7 @@
+# Le langage CSS
+CSS veux dire cascading style sheet. C'est un langage qui permet de styliser des contenus définie en markdown ou en HTML. Les selecteurs déterminé dans le document html servirons pour attribuer un style au contenu. Exemple: h1 {color:yelow}
+
+Il y le selecteur (contenue hierarchisé du document html) à linterieur des {} il y a la propriété dans mon exemple c'est la couleur et la valeur. Dans mon exemple c'est la couleur jaune. 
+Il existe une multitude de propriété comme les encadrés, les couleurs, le centrage. 
+Nous ouvrirons de {} par propriété que nous souhaitons mordier. Il est possible d'isoler des contenus afin d'appliquer un visuel commun. Cette isolation se fait sur le document HTML c'est a dire sa propriété, de quoi il découle. 
 
