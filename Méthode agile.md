@@ -1,12 +1,15 @@
 # La méthode agile
+La méthode agile a été créer aux états unis par une poignée de personne. Il émane du constat que les projets sur une longue durée et dirigé par des manageurs amène à une perte de temps et a des résultat peu proban. 
+Le manifeste agile se bases sur 4 valeurs et 7 principes. La méthode agile s'applique dans le travail en équipe afin de réliser un projet ou un produit.
 J'ai le sentiment que cette méthode découle du développement personnel dans la thématique du buisiness. Ce qui implique pour le mettre en oeuvre du bon sens dans un cadre bien définie. Je vais essayer de décrire ici la méthode agile dans sa globalité car il exite une sous méthode ou disons plus tôt des différents cadre applicable dans la méhode agile. Pour le moment j'en connais qu'un qui est le SCRUM. Mais je le définirais dans un autre document. 
 
-La méthode agile s'applique dans le travail en équipe afin de réliser un projet ou un produit. Cette méthode conciste à autonomiser l'équipe pluridiciplinaire sur la réalisation d'un projet collaboratif. Elle propose autre chose qu'une méthode classique de fonctionnement en hiérarchie (chef décidant et équipe appriquant...).
+Cette méthode conciste à autonomiser l'équipe pluridiciplinaire sur la réalisation d'un projet collaboratif. Elle propose autre chose qu'une méthode classique de fonctionnement en hiérarchie (chef décidant et équipe appriquant...).
 Elle a pour but de lancer rapidement un produit émanant d'un besoin identifié. 
 
 ## Pouquoi devenir agile 
 Cette méthode permet de rendre acteur tout employé qui en a marre d'être infantilisé.Permet d'éviter le dégoût du travail pour les employer et ne pas a avoir à subir un "tirant" peux être agréable et avoir envie d'aller au travail. C'est très motivant pour les individues de sentir qu'ils/elles créers le produit et en est décisionnaire. 
 On obtiens des cerveaux d'oeuvre qui collabore plus tôt que des mains d'oeuvre qui execute. 
+C'est pourquoi la méthode ne se veux pas rigide mais flexible, elle est la pour apporter un outils de travail collectif mais n'est en aucun ca rigide autrement on risquerais de reproduire le tiranisme reproché au méthode de trvail dite classique. 
 
 ## L'équipe
 Il faut choisir une équipe pluridiciplinaire afin que les connaisancent se complètent. 
@@ -20,9 +23,7 @@ Dans l'équipe pluridiciplinaire on observe qu'une personne spécifique, le Prod
 Scum master favorise l'auto-organisation de l'équipe. Une fois le travail priorisé par le PO c'est elle qui va définir comment. 
 
 ## Les stories
-Les stories se présente sous forme de liste ou d'étapes à passer pour arriver à l'objectif final ou un sous objectif. Ce sont des paliés définie collectivement et elles ont des valeurs. 
-Par exemple : si mon objectif est d'ouvrir un lieu une de mes stories serais de trouver un local et celui ci sera important et aura une grande valeur. Nous pouvons attribuer des tailles de vêtement afin de valoriser les stories. 
-S pour peu important et allant jusqu'au xl pour le plus important. 
+Les stories se présente sous forme de liste de problème à résoudre pour arriver à l'objectif final ou un sous objectif. Ce sont des paliés définie par les parties prenantes et elles ont des valeurs. 
 
 ## La boucle du feedback
 Le feedback est l'un des cadres que la méthode peux contenir. Elle permet de travailler collectivement sur un temps court définie en itération (répétitif).
