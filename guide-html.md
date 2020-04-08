@@ -81,10 +81,28 @@ Les liens _html_ se précisent par l'ancrage :
 
 _anchor_ : a
 
+avec ancrage
+
+Permet aux utilisateur d'afficher le liens dans une nouvelle fenêtre. 
+```\<a target= blank"lien externe"```
+
+Pour créer des liens interne nous pouvons relier des mots entre eux aisni (les mots ne peuvent contenir des caractères spéciaux, ni maj, juste lettre simple et - ou _ ) \:
+
+```<a id="cuisine"``` élement de base
+```<a href="#cuisine"``` en reponse c'est à dire lien vers _cuisine_
+
+Le id permet d'isoler un élément afin d'en faire un usage spécifique comme un lien mais un autre caractère pourrait lui être apporté comme l'ancrage _classe_ puis pour y faire référence au lieu d'un # comme pour id il faut mettre un _._
+
 ## Image
 
 Pour inclure une image la formule est la suivante : 
 ```<img src="emplacement URL">```
+### format des images
+Il existe différents format d'image \:,  est 
+- JPG ; le plus classique mais lourd et supporte mal la transparence.
+- PNG ; supporte la transparence, légé, qualité dans le détail
+- GIF ; animation, lourd, supporte mal la transparence. 
+- SVG ; cool pour icone, concerve les formes, facile pour modifier. 
 
 <img src="https://gite.equisud.com/img/img_square_13.jpg">
  
@@ -103,6 +121,7 @@ La balise :
 
 permet de préserver le texte sans l'interpréter par exemple une balise ne sera pas interprétée.
 On l'utilise pour présenter du code ou des formules mathématiques.
+
 ## Les métadonnées
 
 Sont les données qui constituent les éléments de bases dans la création d'un document html.
@@ -131,27 +150,6 @@ Par défaut htlm mets à la suite les contenus écris.Permet un saut de ligne vi
 
 Pour mettre un mot en gras il faut l'entourner par _strong_ avec une balise fermante \:
 ```<strong> le mot </strong>```
-
-## Liens
-avec ancrage
-
-Permet aux utilisateur d'afficher le liens dans une nouvelle fenêtre. 
-```\<a target= blank"lien externe"```
-
-Pour créer des liens interne nous pouvons relier des mots entre eux aisni (les mots ne peuvent contenir des caractères spéciaux, ni maj, juste lettre simple et - ou _ ) \:
-
-```<a id="cuisine"``` élement de base
-```<a href="#cuisine"``` en reponse c'est à dire lien vers _cuisine_
-
-Le id permet d'isoler un élément afin d'en faire un usage spécifique comme un lien mais un autre caractère pourrait lui être apporté comme l'ancrage _classe_ puis pour y faire référence au lieu d'un # comme pour id il faut mettre un _._
-
-## Image
-### format des images
-Il existe différents format d'image \:,  est 
-- JPG ; le plus classique mais lourd et supporte mal la transparence.
-- PNG ; supporte la transparence, légé, qualité dans le détail
-- GIF ; animation, lourd, supporte mal la transparence. 
-- SVG ; cool pour icone, concerve les formes, facile pour modifier. 
 
 ## Dimensions
 Tout comme la police d'écriture il faut l'inclure à un corps de texte ou image, liens ect. 
