@@ -111,16 +111,14 @@ Sont dans les enfants de _\<head>_ et s'érivent de cette manière là \:
 ```\<head>
     \<meta title="titre de la page"
 permet de nommer l'oglet de la fenêtre. 
-           charset="utf-8"
-           Correspond à l'encodage de la page. Permet à se que les caractère soit bien lisible
-           name="texte apparant sur moteur recherche"
-           keywords="mot clés permettant aux utilisateurs de trouver le site sur moteur recherche"
-           link href ou rel dépend du document ou lien vers l'icone qui s'affiche en haut de la fenêtre
+       <meta charset="utf-8"
+           <meta Correspond à l'encodage de la page. Permet à se que les caractère soit bien lisible
+           <meta name="texte apparant sur moteur recherche"
+          <meta  keywords="mot clés permettant aux utilisateurs de trouver le site sur moteur recherche"
+           <meta link href ou rel dépend du document ou lien vers l'icone qui s'affiche en haut de la fenêtre
 ``` 
 Ils existent plein d'autre métadonnée. Se reporter aux guide mdn. 
 
-# Les balises de texte
-## Les titres
 ## Les paragraphes
 
 Les paragraphes se distinguent par la formule 
@@ -133,9 +131,6 @@ Par défaut htlm mets à la suite les contenus écris.Permet un saut de ligne vi
 
 Pour mettre un mot en gras il faut l'entourner par _strong_ avec une balise fermante \:
 ```<strong> le mot </strong>```
-
-Pour les formule mathématique utilisé la balise _pre_. Les espaces et les caractères serons affiché comme sur l'éditeur html. 
-```<pre> le mot </pre>```
 
 ## Liens
 avec ancrage
@@ -157,12 +152,6 @@ Il existe différents format d'image \:,  est
 - PNG ; supporte la transparence, légé, qualité dans le détail
 - GIF ; animation, lourd, supporte mal la transparence. 
 - SVG ; cool pour icone, concerve les formes, facile pour modifier. 
-
-## Police d'écriture/ font-family
-Se reporter à https://developer.mozilla.org/fr/docs/Web/CSS/font-family pour les différents types de famille d'écriture. 
-Pour changer la police d'écriture la formule est la suivante: 
-```font-family: "le style voulue"```
-Il faut lié cette formule à un corps de texte comme le titre, le paragraphe ect. 
 
 ## Dimensions
 Tout comme la police d'écriture il faut l'inclure à un corps de texte ou image, liens ect. 
