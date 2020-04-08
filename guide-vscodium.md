@@ -25,6 +25,6 @@ Lorsque je réalise des modifications sur github (ajout/suppression de documents
 Ensuite je peux ouvrir un document pour le modifier. Une fois les modification réalisé j'enregistre (ctrl+s). Une fois enregistré le symbole medecin (graphique) va afficher un chiffre. Je clique dessus et commente le _commit_ (commettre) désigne le fait de commettre un acte sur le document. On peut expliquer ce qu'on a fait en ajoutant un message de _commit_ Puis cliquer sur _ctrl+entré_ ainsi la modification est nommée.
 
 ### Push (pousser) 
+> c'est un peu comme poster ton colis pour l'envoyer à github
 
- puis cliquer sur le cercle fléché pour renvoyer vers github les modifications réalisé sur le logiciel. 
-Attribuer un commit par document modifié ou supprimé, appuyer sur ctrl + entrer. Le commit est enregitré. Ensuite clique en bas sur le rond pour transférer le, les modifications. 
+Pour "pusher" cliquer sur la flèche montante indiquant le nombre de commit réalisé sur github. Afin de renvoyer vers github les modifications réalisé sur vscodium. 
