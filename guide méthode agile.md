@@ -37,12 +37,14 @@ Il faut choisir une équipe pluridiciplinaire afin que les connaisancent se comp
 Elle doit être en moyenne composé de 5 personnes.
 S'applique sur une petite equipe peux s'adapter sur une plus grande équipe mais ça reste plus complexe. 
 
-Dans l'équipe pluridiciplinaire on observe qu'une personne spécifique, le Product Owner (PO), qui à pour mission d'orienter l'équipe vers les stories à résoudre. Le PO est le représentant des utilisateurs et des parties prenantes. Il est aussi juge car il a un pouvoir de décision. 
+Dans l'équipe pluridiciplinaire on observe qu'une personne spécifique, le Product Owner (PO), qui à pour mission d'orienter l'équipe vers les stories à résoudre qui proviennent des besoins collecté (des problématiques à résoudre). Le PO est le représentant des utilisateurs et des parties prenantes. Il est aussi juge car il a un pouvoir de décision. 
 
 Scum master favorise l'auto-organisation de l'équipe. Une fois le travail priorisé par le PO c'est lui qui va définir comment. 
+C'est lui qui rythme les réunions, se focalise sur la forme et non le fond et il joue le rôle de méateur (gère les conflis ou résous les obstacles s'il y en a). 
+
+Ces deux rôles peuvent s'executer à distance, tout dépend de la nature du produit.
 
 ## Les stories
-
 Les stories se présente sous forme de liste de problème émis par les parties prenante. Leur résolution permet à l'équipe d'arriver à l'objectif final ou un sous objectif. Ce sont des paliés définie par les parties prenantes et elles ont des valeurs. 
 
 ## La boucle du feedback
@@ -90,3 +92,8 @@ Se qui me semble important de souligner c'est que par tout ce cheminemant de tra
 Le développement agile, appelé aussi développement adaptatif, se caractérise donc par un style de conduite de projet itératif incrémental, centré sur l’autonomie des ressources humaines impliquées dans la spécification, la production et la validation d’une application intégrée et testée en continu (méthode agile).
 
 C’est à partir de ces réalités pratiques, et non pas sur la base d’une théorie globale ou structurante, que l’agilité progresse vers les sphères les plus hautes de l’organisation et participe à la création de ce que l'on peut appeler une culture agile de l'organisation. 
+
+## Les hors jeu possible
+Le cadre agile est très fragile, il repose sur la confiance que l'équipe peux s'accorder. Celle-ci peux vassiller dans les cas ou certain essaie d'asseoir leur autorité ce qui va engendrer une production de travail insatisfaisante sans parler de la mauvaise ambiance pesante... Si quelqu'un echoue tout les monde coule. Alors il est possible de rompre le lien en exposant que la méthode linéaire qu'exige la méthode n'est pas respecté. 
+
+Il existe une methode scrum cycle en V qui reprend l'ancienne méthode de travail avec un système hierarchiche ou toute action est clairement définis et l'avancé se fait sans prendre en concidération l'avis de l'utilisateur. C'est un rapport client facturation éxecutant. 
