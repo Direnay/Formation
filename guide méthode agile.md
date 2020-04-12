@@ -94,6 +94,14 @@ Le développement agile, appelé aussi développement adaptatif, se caractérise
 C’est à partir de ces réalités pratiques, et non pas sur la base d’une théorie globale ou structurante, que l’agilité progresse vers les sphères les plus hautes de l’organisation et participe à la création de ce que l'on peut appeler une culture agile de l'organisation. 
 
 ## Les hors jeu possible
-Le cadre agile est très fragile, il repose sur la confiance que l'équipe peux s'accorder. Celle-ci peux vassiller dans les cas ou certain essaie d'asseoir leur autorité ce qui va engendrer une production de travail insatisfaisante sans parler de la mauvaise ambiance pesante... Si quelqu'un echoue tout les monde coule. Alors il est possible de rompre le lien en exposant que la méthode linéaire qu'exige la méthode n'est pas respecté. 
+Le cadre agile est très sensible, il repose sur la confiance que l'équipe peux s'accorder. Celle-ci peux vassiller dans les cas ou certain essaie d'asseoir leur autorité ce qui va engendrer une production de travail insatisfaisante sans parler de la mauvaise ambiance pesante... Si quelqu'un echoue tout les monde coule. Alors il est possible de rompre le lien en exposant que la méthode linéaire qu'exige la méthode n'est pas respecté.Il existe une methode scrum cycle en V qui reprend l'ancienne méthode de travail avec un système hierarchiche ou toute action est clairement définis et l'avancé se fait sans prendre en concidération l'avis de l'utilisateur. C'est un rapport client facturation éxecutant. 
 
-Il existe une methode scrum cycle en V qui reprend l'ancienne méthode de travail avec un système hierarchiche ou toute action est clairement définis et l'avancé se fait sans prendre en concidération l'avis de l'utilisateur. C'est un rapport client facturation éxecutant. 
+## Les issus possible
+Grâce aux rituels de travail la méthode propose des temps d'échanges qui sont cruciaux pour la gestion de conflie et des émotions. Lorsqu'un membre de l'équipe ou plusieurs membre de,l'équipe sortent du cadre d'une façon ou d'une autre, il est possible de le leur dire lors des rétrospectives. Ce temps permet au PO de rééquilibrer les balances pour repartire sur des bases plus saines de travail. Chauque individu réagie en fonction de ses émotions. Il est préférable que cette émotion est pu être identifié au préalable afin que tous se sentent entendu et accepter sans que ça leur sois reprocher.
+
+D'une certaine manière le rôle du PO est de faire en sorte que chaque individu puisse apporter ses savoir et connaissance dans un environnement égalitaire afin que tous puissent joîre d'une volonter de produire en ayant seulement le poid de satisfire les utilisateurs.
+
+Afin d'exercer au mieux le rôle de PO, il pourrait être interessant et utiles d'étudier: 
+- la CNV (communcation non violente)
+- L'écoute active, afin que les personnes puissent s'exprimer sans être jugé et qu'il trouve résolutionn à son problème grâce à l'écoute.
+- La gestion des émotions (savoir en parler et les désamorser)
