@@ -1,0 +1,62 @@
+## Familiarisez-vous avec la posture du Product Manager
+Apprenez, comprenez et coordonnez
+
+Que signifie "posture" exactement ? 
+
+La posture est la manière dont le Product Manager se comporte avec ses interlocuteurs et se perçoit dans son rôle. Elle est déterminante pour l'intégralité des missions de celui-ci, donc soyez attentifs : être Product Manager commence inévitablement par la maîtrise de la posture.
+Apprendre ou à laisser ?
+
+Si le mot "manager" dans le titre du poste a réveillé vos instincts dictatoriaux, je m'excuse par avance, je m'apprête à briser vos rêves : le rôle du Product Manager n'est pas d'écraser tout le monde pour imposer ses idées.
+
+ Cela ne signifie pas que le Product Manager ne prend pas de décision, mais uniquement qu'il ne les prend pas seul. 
+
+En tant qu'élément central de l'organisation produit, le Product Manager est au contact quasi-quotidien de plusieurs équipes comme l'équipe technique, le marketing, la communication, le service client, etc.
+
+Aussi compétent que vous puissiez être, il est fort peu probable que vous soyez plus compétent dans chacune de ces disciplines que les membres de ces équipes, dont c'est le métier. C'est pourquoi votre premier devoir pour obtenir une bonne posture de Product Manager est de vous comporter en tant qu'apprenti. 
+Personne assis, regardant un ordinateur.
+En tant que Product Manager, vous serez un éternel apprenti !
+
+Mais moi j'ai déjà fait du marketing ! Je n'ai pas besoin d'être un apprenti, si ?
+
+Eh bien si ! Quelle que soit l'entreprise dans laquelle vous travaillez, elle aura un contexte, déterminé par sa culture, sa manière de fonctionner, ses ambitions, son histoire et bien d'autres éléments. Ces particularités feront que la connaissance des équipes avec lesquelles vous interagirez leur sera propre. Cette connaissance vous sera vitale pour votre second devoir : la compréhension des enjeux de chacun.
+
+Sans mettre en doute vos capacités, apprendre l'intégralité du métier de chacun de vos interlocuteurs est une tâche ardue, sinon impossible, et n'est surtout pas pertinent. 
+Focalisez-vous sur l'essentiel
+
+Plus nous avancerons dans ce cours, plus vous découvrirez que le temps est, comme dans beaucoup de postes, la ressource la plus ténue du Product Manager. Ainsi, lorsque vous aurez à investir du temps sur une tâche, comme par exemple apprendre le contexte de vos interlocuteurs, vous devrez vous focaliser sur ce qui vous est nécessaire.
+Imaginez que vous travailliez sur une application de e-commerce et que vous discutiez d'un projet avec l'équipe technique.
+Savoir que l'ajout d'un produit au panier est une opération asynchrone vous sera sûrement utile pour définir l'expérience utilisateur. Par contre, savoir que, contrairement au C, le Java dispose d'un garbage collector qui s'occupe automatiquement de nettoyer la mémoire des éléments inutilisés ne vous sera d'aucune utilité. Laissez cette connaissance à l'équipe technique, ils en feront sûrement un meilleur usage que vous.
+Vous devez donc vous focaliser sur le pourquoi plus que sur le comment et ce, pour chacune des équipes avec qui vous travaillez. Maîtriser les enjeux de chacune des parties prenantes vous permettra de prendre des décisions servant le plus d'enjeux possibles, selon ce qui est réalisable. 
+Donc là, vous êtes en train de me dire que je dois essayer de combiner l'ensemble des enjeux, en plus de mes propres enjeux produit ? 
+
+Oui... et non. En théorie, si les équipes sont bien alignées, vos décisions devraient être en mesure de satisfaire tout le monde. En réalité, vous serez parfois obligé d'ignorer un enjeu pour faire le choix qui vous semble être le plus pertinent, compte tenu de la situation globale.
+Prendre une décision qui ne prend pas en compte les enjeux d'une équipe doit toujours être un choix guidé par la pertinence, et non par un manque de temps accordé à la compréhension des enjeux.
+Chef d'orchestre du produit
+Faire des choix, c'est bien, les assumer, c'est mieux. Et ça tombe bien, parce que c'est votre troisième et dernier devoir pour vous comporter en Product Manager : la coordination des équipes. 
+Ce sera au Product Manager de coordonner les avancées !
+Ce sera au Product Manager de s'assurer que les informations circulent et ne se perdent pas entre les équipes.
+Comme je le disais plus haut, même quand les équipes sont alignées, chacune d'elles a ses objectifs et travaille au quotidien pour les atteindre. Vos décisions influant sur chacun de ces objectifs, en plus des vôtres, vous allez devoir faire en sorte que tout le monde travaille en accord, avec le bon timing et les bonnes interactions, pour atteindre le but commun sans accroc.
+Encore une fois, et ce sera le coup de grâce aux instincts dictatoriaux restants, il ne s'agit pas là de donner des ordres et de fouetter les équipes ! 
+C'est dans cette coordination que le rôle de Product Manager prend tout son sens : celui de chef d'orchestre du produit. À la manière d'un chef d'orchestre, vous devrez donc partager le planning et l'ordonnancement de la contribution de chacun dans le projet, et veiller à ce que ceux-ci soient respectés. Il sera aussi à votre charge que chaque intervenant comprenne parfaitement ce qu'il a à faire et dans quel but. Nous parlerons, plus tard dans ce cours, des moyens que vous pourrez mettre en oeuvre pour cela.
+Restez toujours ouvert
+Vous l'aurez compris, le poste de Product Manager vous amènera à être au contact de nombreux interlocuteurs différents, avec des connaissances, des objectifs et des perspectives propres, qu'il vous sera impossible de maîtriser dans leur intégralité. Il sera donc vital que vous restiez humble, du premier au dernier jour de votre carrière de Product Manager. 
+Oui, enfin, il y a des sujets que je vais finir par bien maîtriser et sur lesquels je pourrai être totalement autonome, non ?
+Comme pour n'importe quel sujet, les connaissances que vous aurez accumulées à un instant T seront peut-être incomplètes à l'instant T+1. En effet, les contextes des équipes ne sont pas figés dans le temps, et passer à côté d'un nouvel élément peut changer totalement la pertinence de vos décisions.
+Imaginez que vous êtes en charge depuis deux ans du portail de gestion des livreurs de commande pour une startup de la food tech. Vous connaissez donc très bien le processus d'inscription de ceux-ci et ne sollicitez donc pas les équipes métiers pour concevoir le nouveau parcours.
+Pas de chance, une nouvelle loi a été votée et les entreprises ne sont plus autorisées qu'à employer des livreurs ayant passé un examen de compétences, dont ils doivent présenter un justificatif. Votre nouveau parcours d'inscription, qui n'inclut pas cette étape, arrive donc en production et est inutilisable.
+Vous devez donc veiller à ne pas vous surestimer, et à toujours inclure les équipes métiers et techniques dans les décisions que vous envisagez de prendre sur le produit. Il est aussi nécessaire que vous restiez ouvert aux idées d'amélioration que vos collègues pourraient vous proposer. En effet, ils apporteront des perspectives souvent différentes de la vôtre.
+De manière générale, vous pourrez suivre le même cycle pour tout projet :
+    Challenger le besoin auprès de l'équipe ayant demandé l'amélioration ou la nouvelle fonctionnalité, dans le but d'en comprendre les tenants et aboutissants ;
+    Échanger avec toutes les équipes concernées par le projet, pour recueillir leurs avis et idées sur ce qui est ressorti de votre point avec l'équipe instigatrice du besoin ;
+    Décrire dans une spécification la solution à laquelle vos discussions ont abouti ;
+    Vérifier auprès de toutes les équipes que la spécification correspond aux attentes ;
+    Faire réaliser le projet, par exemple par l'équipe technique ;
+    Présenter la réalisation à toutes les équipes. 
+
+En bref
+
+    Vous devez, et devrez toujours, apprendre des interlocuteurs avec qui vous travaillez ;
+    Vous ne prenez de bonnes décisions qu'en comprenant les enjeux de chaque interlocuteur ;
+    Vous êtes garant de coordonner le travail des différentes parties prenantes de vos projets pour atteindre l'objectif final ;
+    Manquer d'humilité peut vous coûter la réussite d'un projet ;
+    Pour limiter les risques d'échec d'un projet, suivez un cycle basé sur l'apprentissage, la communication et la validation.
