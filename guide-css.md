@@ -1,6 +1,34 @@
 # Le langage CSS
 
-CSS veux dire *Cascading Style Sheet*. C'est un langage qui permet de styliser des contenus définie en _markdown_ ou en _HTML_. Les sélecteurs déterminé dans le document html servirons pour attribuer un style au contenu. Exemple: h1 {color:yelow}
+CSS veux dire *Cascading Style Sheet*. C'est un langage qui permet de styliser des contenus définie en _markdown_ ou en _HTML_. 
+
+##  Sélecteur
+
+En CSS, on utilise des sélecteurs qui permettent de pointer un élément HTML.
+
+Par exemple on peut pointer les balises : body pour récupérer le `<body>` ou h1 pour récupérer les `<h1>` ou 
+a pour les liens `<a>`
+Ou des _class_ ou des _id_ :
+.truc pour la _class truc_ `<h2 class="truc">`
+\#celuici pour l'id  ex. `<a id="celuici">le lien</a>`
+
+Et après, on demande d'appliquer des instructions css
+
+```
+a {
+  # les instructions pour tous les liens de la page
+}
+
+body {
+  # les instructions pour toutes les balises dans le <body> 
+}
+
+```
+
+
+
+
+Les sélecteurs déterminé dans le document html servirons pour attribuer un style au contenu. Exemple: h1 {color:yelow}
 
 Il y a le sélecteur (contenue hiérarchisé du document html) à l'interieur des {} il y a la propriété dans mon exemple c'est la couleur et la valeur. Dans mon exemple c'est la couleur jaune. 
 Il existe une multitude de propriété comme les encadrés, les couleurs, le centrage. 
