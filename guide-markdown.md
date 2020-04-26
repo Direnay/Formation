@@ -38,7 +38,16 @@ Il existe deux types de listes. Les points ou les liste numéroté.
 
 ## les styles : gras, italique, etc.
 
-Si je souhaite insister sur un mot je peux le mettre entre des \* ou entre \_, le mot sera en _italique_. Si je souhaite insiter et le mettre en gras je double les \** ou \__ : **comme ça**
+Si je souhaite insister sur un mot :
+
+italique = *italique*
+gras = **gras**
+italique gras = ***italique gras***
+b̶a̶r̶r̶é̶ = ~~barré~~
+souligné = __souligné__
+italique souligné = __*italique souligné*__
+gras souligné = __**gras souligné**__
+italique gras souligné = __***italique gras souligné***__
 
 ## les images
 
