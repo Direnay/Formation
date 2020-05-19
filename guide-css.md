@@ -37,3 +37,20 @@ Nous ouvrirons de {} par propriété que nous souhaitons mordier. Il est possibl
 CSS execute une tâche quand l'ordre donnée est au plus précis autrement c'est le paramètre par défaut qui est executé. 
 Exemple: les textes "paragraphe" s'écrivent d'un à l'autre de l'écran. Si nous souhaitons des sauts de ligne il faut le préciser.
 Les listes s'écrivent les uns sous les autres, en block et non inline. L'ordre doit être données au li et non à l'ul. 
+
+# class/div
+
+# taille
+px
+%
+# Marge
+margin left...
+float
+# style image
+bordure
+ombre
+# style texte
+font...
+# grid (grille)
+
+#
