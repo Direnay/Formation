@@ -71,3 +71,6 @@ Pour les images sur mon site je place l'image sur _github_
 test image
 ![Diren Conteuse](./diren-conteuse.jpg)
 ![souvenir douloureux](./20171122_003333.jpg)
+
+## Les styles 
+aut de ligne ; deux espaces permettent de créer un saut de ligne 
