@@ -37,7 +37,7 @@ Les listes s'écrivent les uns sous les autres, en block et non inline. L'ordre 
 
 # Référencer une feuille 
 
-## Pour référencer un feuille de style CSS _**externe**_ 
+## Feuille de style CSS _**externe**_ 
 
 il faut ajouter un <link> élément dans le document HTML 
 ```<link rel="stylesheet" href="styles.css">```
@@ -51,6 +51,7 @@ chemin possible ;
 <!-- Go up one directory level, then inside a subdirectory called styles -->
 <link rel="stylesheet" href="../styles/style.css">
 
+## Feuille de style CSS _**interne**_
 Le code HTML d'une feuille de style interne peut ressembler à ceci:
 <!DOCTYPE html>
 ``<style>
