@@ -41,13 +41,13 @@ Il existe deux types de listes. Les points ou les liste numéroté.
 Si je souhaite insister sur un mot :
 
 italique = *italique*
-gras = **gras**
+```gras = **gras**
 italique gras = ***italique gras***
 b̶a̶r̶r̶é̶ = ~~barré~~
 souligné = __souligné__
 italique souligné = __*italique souligné*__
 gras souligné = __**gras souligné**__
-italique gras souligné = __***italique gras souligné***__
+italique gras souligné = __***italique gras souligné***```
 
 ## les images
 
