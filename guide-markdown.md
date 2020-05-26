@@ -26,7 +26,7 @@ Pour ajouter un lien il faut écrire la légende entre [ ] et le lien entre ()
 ## les listes
 
 Il existe deux types de listes. Les points ou les liste numéroté.
-
+```
 - pour les liste avec point, un tiret
 - ou une étoile
 
@@ -35,6 +35,7 @@ Il existe deux types de listes. Les points ou les liste numéroté.
 
 1. un chiffre avec un point pour les listes numérotées
 2. deuxième items
+```
 
 ## les styles : gras, italique, etc.
 
