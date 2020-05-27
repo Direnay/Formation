@@ -74,8 +74,8 @@ Après avoir ciblé un sélecteur HTML (h1, p, ect) nous pouvons indiquer dans l
 
 # Les couleurs
 
-ajout lien vers le site 
-
+https://coolors.co/
+ 
 # taille
 
 px
