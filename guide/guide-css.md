@@ -23,21 +23,10 @@ body {
 }
 
 ```
-# Les sélecteurs
 
-Les sélecteurs déterminé dans le document html servirons pour attribuer un style au contenu. Exemple: h1 {color:yelow}
+## Référencer une feuille 
 
-Il y a le sélecteur (contenue hiérarchisé du document html) à l'interieur des {} il y a la propriété dans mon exemple c'est la couleur et la valeur. Dans mon exemple c'est la couleur jaune. 
-Il existe une multitude de propriété comme les encadrés, les couleurs, le centrage. 
-Nous ouvrirons de {} par propriété que nous souhaitons mordier. Il est possible d'isoler des contenus afin d'appliquer un visuel commun. Cette isolation se fait sur le document HTML c'est a dire sa propriété, de quoi il découle. 
-
-CSS execute une tâche quand l'ordre donnée est au plus précis autrement c'est le paramètre par défaut qui est executé. 
-Exemple: les textes "paragraphe" s'écrivent d'un à l'autre de l'écran. Si nous souhaitons des sauts de ligne il faut le préciser.
-Les listes s'écrivent les uns sous les autres, en block et non inline. L'ordre doit être données au li et non à l'ul. 
-
-# Référencer une feuille 
-
-## Feuille de style CSS _**externe**_ 
+###Feuille de style CSS _**externe**_ 
 
 il faut ajouter un <link> élément dans le document HTML 
 ```<link rel="stylesheet" href="styles.css">```
@@ -51,7 +40,8 @@ chemin possible ;
 <!-- Go up one directory level, then inside a subdirectory called styles -->
 <link rel="stylesheet" href="../styles/style.css">
 
-## Feuille de style CSS _**interne**_
+### Feuille de style CSS _**interne**_
+
 Le code HTML d'une feuille de style interne peut ressembler à ceci:
 <!DOCTYPE html>
 ``<style>
@@ -61,7 +51,7 @@ background-color: yellow;
 border: 1px solid black;
 }``
           
-# Les instructions CSS
+## Les instructions CSS
 
 Après avoir ciblé un sélecteur HTML (h1, p, ect) nous pouvons indiquer dans la balise toute les modifications concernant cette élément. 
 
@@ -70,32 +60,40 @@ Après avoir ciblé un sélecteur HTML (h1, p, ect) nous pouvons indiquer dans l
 * Encadré ombragé "box-shadow; 8px 8px 12px rgb(7, 7, 7);
 * Bordure "border: 3px solid;"
 * La couleur de la bordure "border-color: #74383f;"
-* 
 
-# Les couleurs
+## Les couleurs
 
-https://coolors.co/
+Les couleurs sont écrits après un # sur 6 chiffres ou lettres qui définissent une couleurs précise. 
+Pour harmoniser les couleurs du site il exite un site qui propose (en fonction d'une photo est possible) des palettes de couleurs _**https://coolors.co/**_
  
-# taille
+## taille
+Il existe plusieurs façon de définir la taille d'un élément. 
+* les pixels _**px**_ sont généralemnt utiliser pour définir la taille du texte mais on peux aussi définir d'autre éléments. Il représente en pixel la taille de l'élément.
+* les poucentage _**%**_ sont généralment utiliser pour définir la taille d'une image ou logo et autre sybolle exterieur en fonction de sa taille initiale. 
+* _**em**_ peuvent avoir un chiffre décimale 1.3 (il faut séparer les chiffre par un .)
+* valeur relative peuvent aussi être utilisé comme (c'est limité car il n'y en a que 7); 
+    *xx-small: minuscule ;
+    * x-small: très petit ;
+    * small: petit ;
+    * medium: moyen ;
+    * large: grand ;
+    * x-large: très grand ;
+    * xx-large: euh… gigantesque.
 
-px
-%
-em
-
-# Marge
+## Marge
 
 margin left...
 float
 padding
 
-# style image
+## style image
 
 
 
-# style texte
-
+## style texte
+https://fonts.google.com/
 font...
 
-# grid (grille)
+## grid (grille)
 
-# class/div
+## class/div
