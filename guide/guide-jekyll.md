@@ -65,9 +65,7 @@ Jekyll peut générer également une sitemap, des archives, etc.
 Il peut également parser les fichiers sources et transformer par exemple des liens vers flickr en mini-galeries d’images ou des liens youtube en players intégrés à la page. Il existe de nombreux plugins pour cela.
 A noter que Jekyll permet aussi d’avoir un mode serveur où la compilation se fait à la volée et où on peut voir les résultats sur un serveur local.
 
-Enfin, il existe des plugins pour pouvoir automatiquement déployer son site via FTP, SFTP, Git etc.
-
-Jekyll est notamment très bien intégré à Github et c’est la solution recommandée pour générer les pages de présentation d’un projet.
+Jekyll très bien intégré à Github et c’est la solution recommandée pour générer les pages de présentation d’un projet.
 
 Jekyll n’est pas limité aux blogs, on peut tout à fait réaliser un portfolio ou des pages produits en rajoutant les layouts correspondants. Il suffit en suite de définir dans chaque fichier source le layout à utiliser pour sa génération.
 
