@@ -64,6 +64,25 @@ Après avoir ciblé un sélecteur HTML (h1, p, ect) nous pouvons indiquer dans l
 ## Les couleurs
 
 Les couleurs sont écrits après un # sur 6 chiffres ou lettres qui définissent une couleurs précise. 
+il y a 16 couleurs de base
+
+Black #000000
+Silver #C0C0C0
+White	#FFFFFF
+Green #008000
+Aqua #00FFFF
+Blue #0000FF
+Fuchsia #FF00FF
+Gray	#808080
+Lime #00FF00
+Maroon #800000
+Navy	#000080
+Olive #808000
+Purple #800080
+Red #FF0000
+Teal #008080
+Yellow #FFFF00
+
 Pour harmoniser les couleurs du site il exite un site qui propose (en fonction d'une photo est possible) des palettes de couleurs _**https://coolors.co/**_
  
 ## taille
@@ -82,13 +101,12 @@ Il existe plusieurs façon de définir la taille d'un élément.
 
 ## Marge
 
-margin left...
-float
-padding
+Des espaces peuvent être créer entre les élement. Cette ordre est données à l'élément par une marge. 
+* _**margin top, margin bottom, margin write, margin left**_ permet d'obtenir une marge à l'exterieur de l'élément (haut, bas, gauche et droite)
+* _**float**_ permet aux éléments de se mettre les un à coté des autres et d'annuler le style par défaut.
+* _**padding**_ permet d'obtenir une marge à l'interieur de l'élément
 
-## style image
-
-
+Il existe encore plein d'autre type de "margin" qui cible les éléments voulu. 
 
 ## style texte
 https://fonts.google.com/
@@ -96,4 +114,3 @@ font...
 
 ## grid (grille)
 
-## class/div
