@@ -55,6 +55,7 @@ Dans le cas d’un blog, nous avons :
 * Pusieurs choix sont possibles, mais par défaut ce sont des fichiers markdown un peu spéciaux. Ils ont un en-tête avec différentes variables pour le titre, l’auteur, la date et éventuellement les catégories du billet.
 
 * Un fichier de configuration (en yaml) qui va servir de chef d’orchestre et dire à Jekyll quoi faire pour la génération.
+Nous pouvons sur ce fichier modifier le titre de la page, élément en bas de page... tout se qui apparait en fixe sur le blog. 
 
 ## Lorsqu’on lance la génération
 
