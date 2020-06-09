@@ -28,3 +28,8 @@ La touche tabulation est une aide pour compléter la commande voulu.
 
 - rm -r répertoire : pour supprimer un répertoire et son contenu (r pour récursif)
 
+- sudo : permet de lever toute les barrière, executer dommande en mode administrateur
+
+- apt-get : gestionnaire de paquet "sudo apt-get install zoom" permet de l'installer directement
+
+- wget : "wget + url" 
