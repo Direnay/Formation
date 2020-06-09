@@ -32,6 +32,14 @@ La touche tabulation est une aide pour compléter la commande voulu.
 
 - apt-get : gestionnaire de paquet "sudo apt-get install zoom" permet de l'installer directement
 
+- sudo apt-get remove + nom de l'appli : désinstalle l'application
+
 - wget : "wget + url" telecharger une page web sur mon ordi
 
 - cat : regarder le contenu d'un fichier
+
+- mv : (moov) bouger un fichier d'un endroit à un autre ex, "mv + le fichier + l'endroit ou on veux qu'il soit 
+
+- cp : copier un fichier formule : cp + nom fichier + endroit
+
+- rf: forcer à effacer, pour ne pas à avoir de message de confirmation
