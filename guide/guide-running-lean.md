@@ -19,27 +19,31 @@ La feuille de route me permettra de suivre le processus Running Lean. Elle décr
 
 ### 2- Définir le plan A
 
-La partie 2 me guide pas à pas à travers le processus de description de ma vision initiale (ou plan A) à l’aide d’un feuillet mobile appelé le Lean Canvas. Mon Lean Canvas me servira de carte tactique et stratégique pour mon activité.
+La partie 2 me guide pas à pas à travers le processus de description de ma vision initiale (ou plan A) à l’aide d’un feuillet mobile appelé le Lean Canvas. Mon Lean Canvas me servira de stratégique pour mon activité.
 Je peux avoir la meilleur volonté du monde et la meilleur intention dans ce qui a pu initier mon projet, mais tant qu'ils ne sont pas confronté à la réalité ils ne valent rien. 
 
 Un outils a été créer afin de nous aider dans la conception du produit. 
 
-    - Le Lean Canvas nous aide à décomposer notre business model en neuf sous- parties distinctes, à les tester de manière systématique, de la plus risquée à la moins risquée.
+    - Le Lean Canvas nous aide à décomposer nos valeurs en neuf sous- parties distinctes, à les tester de manière systématique, de la plus risquée à la moins risquée.
     
-PROBLÈME
-3 problèmes essentiels
+PROBLÈME (besoin)
+3 problèmes essentiels. La problématique des gens. Je vais proposer quelque chose qui résoue ce problème. 
+- 
+- 
+    - 
 
 SOLUTION
 3 fonconnalités essentielles
 
 INDICATEURS CLÉS
-Activités clés que vous évaluez
+Activités clés que vous évaluez. Evaluation qualitatif et quantitatif de mon action. 
 
 PROPOSITION DE VALEUR UNIQUE
-Message simple, clair et persuasif expliquant en quoi votre produit est différent et mérite d’être acheté
+Message simple, clair et persuasif expliquant en quoi votre produit est différent et mérite d’être acheté. 
+Formuler une promesse. Objectif final de mon activité. (ex: déconstruire leur privilège, s'ouvrire au monde...)
 
-AVANTAGE DÉLOYAL
-Ne peut pas être facilement copié ou acheté
+SINGULARITE (avantage déloyale)
+Ne peut pas être facilement copié ou acheté. Qui je suis, quels sont mes valeurs ? Revendique ma culture, d'ou je viens. 
 
 SEGMENTS DE CLIENTÈLE
 Clients cibles
@@ -76,3 +80,5 @@ et m'explique comment passer de mon plan A à un plan qui fonctionne.
 
 ### Vérifier quantitativement
 
+buisness plan : imaginer les stratégie financie sur 5 ans
+buisness modèle : On ne sais pas ou on vas. on ne prédit pas ou on va. 
