@@ -53,27 +53,29 @@ Activités clés que vous évaluez. Evaluation qualitatif et quantitatif de mon 
 PROPOSITION DE VALEUR UNIQUE
 Message simple, clair et persuasif expliquant en quoi votre produit est différent et mérite d’être acheté. 
 Formuler une promesse. Objectif final de mon activité. (ex: déconstruire leur privilège, s'ouvrire au monde...)
-    
+Dire a quoi les gens ils vont avoir à faire 
+
+Raconte des contes aux mésopotamie, kurde 
+
 
 SINGULARITE (avantage déloyale)
 Ne peut pas être facilement copié ou acheté. Qui je suis, quels sont mes valeurs ? Revendique ma culture, d'ou je viens. 
 
-SEGMENTS DE CLIENTÈLE
-Clients cibles
+Femme, anarchiste, Conteuse parcours le monde
+
+SEGMENTS DE PUBLIC
+
+Tout public
+Propose des histoires en fonction des ages et des besoins des publics
 
 CANAUX 
-Chemin d'accès aux clients
+Créer un dossier artistique diffusé aux différents acteurs de la vie culturelle. 
 
 STRUCTURE DES COÛTS
-Coûts d’acquision de la clientèle 
+Participation à prix libre pour le public. Spéclacle vendu à 350€ (une heure) pour les collectivité culturelle.
 
 SOURCES DE REVENUS
 Modèle de revenusn, Coûts de distribuon Durée, Hébergement, Revenus, Employés, etc. Marge brute
-
-PRODUIT
-MARCHÉ
-Le Lean Canvas a été adapté du Business Model Canvas (hp://businessmodelgeneraon.com).
-
 
 
 ## Identification des parties les plus risquées du plan
