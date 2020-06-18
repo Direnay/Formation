@@ -24,23 +24,36 @@ Je peux avoir la meilleur volonté du monde et la meilleur intention dans ce qui
 
 Un outils a été créer afin de nous aider dans la conception du produit. 
 
-    - Le Lean Canvas nous aide à décomposer nos valeurs en neuf sous- parties distinctes, à les tester de manière systématique, de la plus risquée à la moins risquée.
+- Le Lean Canvas nous aide à décomposer nos valeurs en neuf sous- parties distinctes, à les tester de manière systématique, de la plus risquée à la moins risquée.
     
 PROBLÈME (besoin)
-3 problèmes essentiels. La problématique des gens. Je vais proposer quelque chose qui résoue ce problème. 
-- 
-- 
-    - 
+- 3 problèmes essentiels. La problématique des gens. Je vais proposer quelque chose qui résoue ce problème. 
+
+- L'usage récréatif des écrans au quotidiens, des adultes et des enfants nuie gravement à leurs santé. 
+- L'absence de l'imaginnaire, ne pas réussir à rêver empêche les personnes à se projeter dans le future. 
+Donc à se créer un objectif et à avancer pour lui même. 
+- L'échec scolaire peux provenir de l'incapacité à se concentrer. A être disponible aux apprentissages. 
 
 SOLUTION
 3 fonconnalités essentielles
 
+ - Développe l'imaginaire
+ - Centrage personnel. Être dans le réel, dans l'instant présent. 
+ - Développe l'écoute
+
 INDICATEURS CLÉS
 Activités clés que vous évaluez. Evaluation qualitatif et quantitatif de mon action. 
+
+    Indicateurs qualitatifs
+    Si une personne viens m'écouter plus de deux fois
+
+    Indicateur quantitatifs
+    S'il y a plus de 5 personnes qui s'arrêttent et écoutent l'histoire jusqu'au bout
 
 PROPOSITION DE VALEUR UNIQUE
 Message simple, clair et persuasif expliquant en quoi votre produit est différent et mérite d’être acheté. 
 Formuler une promesse. Objectif final de mon activité. (ex: déconstruire leur privilège, s'ouvrire au monde...)
+    
 
 SINGULARITE (avantage déloyale)
 Ne peut pas être facilement copié ou acheté. Qui je suis, quels sont mes valeurs ? Revendique ma culture, d'ou je viens. 
