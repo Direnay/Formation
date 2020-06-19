@@ -55,13 +55,12 @@ Message simple, clair et persuasif expliquant en quoi votre produit est différe
 Formuler une promesse. Objectif final de mon activité. (ex: déconstruire leur privilège, s'ouvrire au monde...)
 Dire a quoi les gens ils vont avoir à faire 
 
-Raconte des contes aux mésopotamie, kurde 
-
+Raconte des contes aux couleurs de la mésopotamie, du kurdistan.  
 
 SINGULARITE (avantage déloyale)
 Ne peut pas être facilement copié ou acheté. Qui je suis, quels sont mes valeurs ? Revendique ma culture, d'ou je viens. 
 
-Femme, anarchiste, Conteuse parcours le monde
+Mes engagements politiques et le fait que je sois une femme transparaitrons dans mes contes 
 
 SEGMENTS DE PUBLIC
 
@@ -70,6 +69,7 @@ Propose des histoires en fonction des ages et des besoins des publics
 
 CANAUX 
 Créer un dossier artistique diffusé aux différents acteurs de la vie culturelle. 
+J'utiliserais le reseau de tamam prod. 
 
 STRUCTURE DES COÛTS
 Participation à prix libre pour le public. Spéclacle vendu à 350€ (une heure) pour les collectivité culturelle.
@@ -77,15 +77,44 @@ Participation à prix libre pour le public. Spéclacle vendu à 350€ (une heur
 SOURCES DE REVENUS
 Modèle de revenusn, Coûts de distribuon Durée, Hébergement, Revenus, Employés, etc. Marge brute
 
+Tout est à mes frais pour le moment. 
 
 ## Identification des parties les plus risquées du plan
 
-La partie 3 m'aide à identifier les aspects de mon plan sur lesquels je dois me concentrer en premier lieu. Elle jette quelques bases sur les différents types de risques auxquels font face les start- up, m'explique comment les prioriser et m'aide à préparer le processus de test et d’expérimentation.
+La partie 3 m'aide à identifier les aspects de mon plan sur lesquels je dois me concentrer en premier lieu. 
+Elle jette quelques bases sur les différents types de risques auxquels ont fait face, m'explique comment les prioriser et m'aide à préparer le processus de test et d’expérimentation.
+
+Pour la plupart des produits, la solution n’est pas l’élément le plus risqué.
+Le premier risque est de créer un produit que personne ne veux. Les risques sont liés aux stades du développement du produit. 
+
+### Stade 1 : ADÉQUATION PROBLÈME/SOLUTION 
+Mon problème vaut-il la peine d’être résolu ? Car y travailler peux couter en temps, en energie. 
+La question peux se décliner en trois autre questions. 
+• Est- ce quelque chose qui intéresse les clients (institutions et public) ? (indispensable)
+• L’achèteront- ils ? Si non, qui l’achètera à leur place ? (économiquement viable)
+• Peut-il être résolu ? (techniquement faisable)
+
+### Stade 2 : ADÉQUATION PRODUIT/MARCHÉ 
+Ai- je mis au point un produit qui intéresse les clients (institutions et public) ?
+
+### Stade 3 : CROISSANCE
+Comment accélérer ma croissance ?
+
+Atteindre une adéquation produit/marché est la première étape importante et cela influence grandement ma stratégie et mes actions.
 
 ## Teste du plan de manière systématique
 
 La partie 4 décrit le processus en quatre étapes me permettant de tester mon plan initial de manière systématique
 et m'explique comment passer de mon plan A à un plan qui fonctionne.
+
+IDÉES, CONCEPTION, PRODUIT, MESURES, DONNÉES, ENSEIGNEMENTS
+Elle décrit la boucle des retours clients, source des enseignements en retour d'expériences.
+
+Une itération aligne plusieurs expérimentations sur un même objectif, tel qu’atteindre l’adéquation produit/marché. 
+Le schéma suivant représente le méta-modèle d’itération que nous utiliserons.
+
+COMPRÉHENSION DU PROBLÈME, DÉFINITION DE LA SOLUTION, VALIDATION QUALITATIVE, VÉRIFICATION QUANTITATIVE, 
+Adéquation problème/soluon                            Adéquation produit/marché
 
 ### Comprendre le problème
 
