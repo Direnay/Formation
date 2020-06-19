@@ -34,12 +34,36 @@ PROBLÈME (besoin)
 Donc à se créer un objectif et à avancer pour lui même. 
 - L'échec scolaire peux provenir de l'incapacité à se concentrer. A être disponible aux apprentissages. 
 
+- l'accès à la culture kurde 
+- 
+
+ALTERNATIF AUX PROBLEME
+- Fixer des horaires de visionnage 
+- 
+- 
+
+        C'est à ce moment qu'il faut aller faire des interview
+
 SOLUTION
 3 fonconnalités essentielles
 
  - Développe l'imaginaire
  - Centrage personnel. Être dans le réel, dans l'instant présent. 
  - Développe l'écoute
+ 
+        Hypothèse solution, tester pour les valider par des interviews. 
+
+PROPOSITION DE VALEUR UNIQUE
+Message simple, clair et persuasif expliquant en quoi votre produit est différent et mérite d’être acheté. 
+Formuler une promesse. Objectif final de mon activité. (ex: déconstruire leur privilège, s'ouvrire au monde...)
+Dire a quoi les gens ils vont avoir à faire 
+
+Raconte des contes aux couleurs de la mésopotamie, du kurdistan.  
+
+COLLECTIF DE PUBLIC
+
+Tout public
+Propose des histoires en fonction des ages et des besoins des publics
 
 INDICATEURS CLÉS
 Activités clés que vous évaluez. Evaluation qualitatif et quantitatif de mon action. 
@@ -50,22 +74,11 @@ Activités clés que vous évaluez. Evaluation qualitatif et quantitatif de mon 
     Indicateur quantitatifs
     S'il y a plus de 5 personnes qui s'arrêttent et écoutent l'histoire jusqu'au bout
 
-PROPOSITION DE VALEUR UNIQUE
-Message simple, clair et persuasif expliquant en quoi votre produit est différent et mérite d’être acheté. 
-Formuler une promesse. Objectif final de mon activité. (ex: déconstruire leur privilège, s'ouvrire au monde...)
-Dire a quoi les gens ils vont avoir à faire 
-
-Raconte des contes aux couleurs de la mésopotamie, du kurdistan.  
 
 SINGULARITE (avantage déloyale)
 Ne peut pas être facilement copié ou acheté. Qui je suis, quels sont mes valeurs ? Revendique ma culture, d'ou je viens. 
 
 Mes engagements politiques et le fait que je sois une femme transparaitrons dans mes contes 
-
-SEGMENTS DE PUBLIC
-
-Tout public
-Propose des histoires en fonction des ages et des besoins des publics
 
 CANAUX 
 Créer un dossier artistique diffusé aux différents acteurs de la vie culturelle. 
