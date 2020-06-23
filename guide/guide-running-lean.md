@@ -131,11 +131,37 @@ Adéquation problème/soluon                            Adéquation produit/marc
 
 ### Comprendre le problème
 
-### Définir une solution
+1. Degré de difficulté rencontré par les clients (problème)
+Définir quel public aura le plus besoin de voir mes spéctacles
 
-### Valider qualitativement 
+2. Facilité d’accès (les canaux)
+Me frayer un chemin vers mes publics les plus accessible, je dois le définir. 
 
-### Vérifier quantitativement
+3. Prix/marge brute (sources de revenus/structure des coûts)
+Le prix est fortement influencé par le public déterminé. Je dirais que pour mon cas c'est l'expérience du conteur qui définie le tarif de la préstation. Pour les débutant c'est entre 300 et 350€. Pour les lus expérimenté ça peux aller jusqu'à 450€. 
+
+4. Taille du marché (segments de clientèle)
+Choisir un segment de public représentant un marché suffisamment grand pour atteindre les objectifs de mon activité.
+
+5. Faisabilité technique (solution)
+Réexaminez ma case solution afin de m'assurer que la solution que j'ai prévue est non seulement faisable, mais également qu’elle représente l’ensemble minimal des publique visé.
+
+### Sollicitez un regard extérieur : l'entretient
+
+Une autre méthode efficace pour me permettre de mieux évaluer mes risques consiste à aller les valider auprès d’autres personnes. Les « bons » conseillers peuvent m'aider à identifier les risques au niveau global et à affiner davantage et/ou à éliminer totalement certaines stratégie. L'objectif de l’entretien est d’apprendre et non de convaincre.
+Je consacre 20 % de votre temps à la préparation, 80 % à la discussion.
+
+Je pose des questions spécifiques.
+Je veux savoir particulièrement :
+– ce qu’ils considèrent comme étant l’aspect le plus risqué de mes actions et ou préstations ;
+– s’ils ont dû faire face à des interventions similaires et si oui comment ;
+– la façon dont ils testerai
+– s’ils pensent qu’il y a d’autres personnes à qui je devrais en parler.ent ces risques ;
+
+La solution ? Ne pas prendre ces retours pour des jugements ou de la validation mais plutôt comme un moyen d’identifier et de classer les risques.
+
+Bien que les enquêtes ne soient pas adaptées pour tirer les premiers enseignements, elles peuvent être assez efficaces pour vérifier les enseignements des entretiens publics.
+
 
 buisness plan : imaginer les stratégie financie sur 5 ans
 buisness modèle : On ne sais pas ou on vas. on ne prédit pas ou on va. 
