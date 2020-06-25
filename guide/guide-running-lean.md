@@ -34,6 +34,7 @@ PROBLÈME (besoin)
 Donc à se créer un objectif et à avancer pour lui même. 
 - L'échec scolaire peux provenir de l'incapacité à se concentrer. A être disponible aux apprentissages. 
 
+SOLLUTION
 - l'accès à la culture kurde 
 - 
 
@@ -146,7 +147,7 @@ Choisir un segment de public représentant un marché suffisamment grand pour at
 5. Faisabilité technique (solution)
 Réexaminez ma case solution afin de m'assurer que la solution que j'ai prévue est non seulement faisable, mais également qu’elle représente l’ensemble minimal des publique visé.
 
-### Sollicitez un regard extérieur : l'entretient
+### Sollicitez un regard extérieur 
 
 Une autre méthode efficace pour me permettre de mieux évaluer mes risques consiste à aller les valider auprès d’autres personnes. Les « bons » conseillers peuvent m'aider à identifier les risques au niveau global et à affiner davantage et/ou à éliminer totalement certaines stratégie. L'objectif de l’entretien est d’apprendre et non de convaincre.
 Je consacre 20 % de votre temps à la préparation, 80 % à la discussion.
@@ -161,6 +162,15 @@ Je veux savoir particulièrement :
 La solution ? Ne pas prendre ces retours pour des jugements ou de la validation mais plutôt comme un moyen d’identifier et de classer les risques.
 
 Bien que les enquêtes ne soient pas adaptées pour tirer les premiers enseignements, elles peuvent être assez efficaces pour vérifier les enseignements des entretiens publics.
+
+#### l'entretient
+
+L’objectif des entretiens avec les clients consiste à découvrir ce que je ne savais pas que je ne savais pas.
+Dans une enquête, je dois poser les bonnes questions. Au début, les meilleurs enseignements viennent des questions ouvertes.
+Les entretiens clients sont une forme de validation qualitative très efficace pour mettre à jour des signaux forts positifs ou négatifs pour certaines hypothèses, en utilisant un échantillon de taille « raisonnable ». Pour mon activité ça peux être l'écoute d'une de mes histoires enregistré. 
+Ou raconter en réel si les conditions les procurent. 
+
+
 
 
 buisness plan : imaginer les stratégie financie sur 5 ans
