@@ -171,7 +171,35 @@ Les entretiens clients sont une forme de validation qualitative très efficace p
 Ou raconter en réel si les conditions les procurent. 
 
 
+3 phases : 
+- 1 vérifier le problème 
+- 2 vérifier la solution
+- 3 mvp (produit minimum viable)
 
+Je vais tout faire avec eux
+Au lieu de penser au spéctacteurs, je vaus vérifier avec eux que c'est bien. 
+
+Interview problème : 
+Je choisie le population a qui je veux proposer mes histoires. Vérifier qu'ils ne soient pas trop nombreux. 
+3 problèmes repérer. Poser mes questions en fonction. Proposer une solution en fonction de l'interview réalisé. 
+
+1- présentation de mon projet; je veux raconter des histoires et souhaite savoir si ça peux intérressé
+2- poser des questions en fonction du contexte, question fermé
+3- Raconte une histoire, exemple: ça m'énerve de ne pas connaitre mon voisinage
+4- Classement des problème : exemple : Est ce que c'est penible pour toi de ne pas connaître tes voisins
+5- Fermer sa gueule, avoir le moins d'inetion possible et laisser parler la personne. Besoin de connaître la personne pour lui proposer quelque chose. 
+Est ce que je peux te revoir pour te requestionner. Prendre 3 minutes pour retranscrire mon questionnaire. 
+Je réajuste mon questionnaire ou mes problématiques. 
+Une fois que le public et les problématique sont ok je passe à l'étape solution
+
+Solution: 
+1- Présentation
+2- Data : question fermé que tu pose pour vérifier que t'es bien dans le bon contexte pour la problématique
+3- Raconte l'histoire du contexte
+4- Demande de réagir sur le contexte; l'écouter, parler du prix. Voir comment la personne réagit. 
+
+Bienveillance: essayer de faire bien pour les autres
+Bientraitance: vérifier avec la personne que c'ets bien pour lui. Demander, le concentement. 
 
 buisness plan : imaginer les stratégie financie sur 5 ans
 buisness modèle : On ne sais pas ou on vas. on ne prédit pas ou on va. 
