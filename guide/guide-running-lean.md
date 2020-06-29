@@ -27,21 +27,22 @@ Un outils a été créer afin de nous aider dans la conception du produit.
 - Le Lean Canvas nous aide à décomposer nos valeurs en neuf sous- parties distinctes, à les tester de manière systématique, de la plus risquée à la moins risquée.
     
 PROBLÈME (besoin)
-- 3 problèmes essentiels. La problématique des gens. Je vais proposer quelque chose qui résoue ce problème. 
+3 problèmes essentiels. La problématique des gens. Je vais proposer quelque chose qui résoue ce problème. 
 
+- L'isolement des individue due à la société individualiste
 - L'usage récréatif des écrans au quotidiens, des adultes et des enfants nuie gravement à leurs santé. 
-- L'absence de l'imaginnaire, ne pas réussir à rêver empêche les personnes à se projeter dans le future. 
-Donc à se créer un objectif et à avancer pour lui même. 
-- L'échec scolaire peux provenir de l'incapacité à se concentrer. A être disponible aux apprentissages. 
+- L'absence de l'imaginnaire, ne pas réussir à rêver empêche les personnes à se projeter dans le future. Donc à se créer un objectif et à avancer pour lui même. L'échec scolaire peux provenir de l'incapacité à se concentrer. A être disponible aux apprentissages. 
 
 SOLLUTION
-- l'accès à la culture kurde 
-- 
+- Créer du lien social
+- développer l'imaginaire
+- Appréhender ses conditions d'humains (encourager à la réflexion, aux questionnements)
 
 ALTERNATIF AUX PROBLEME
-- Fixer des horaires de visionnage 
-- 
-- 
+- Cadrer l'usage des écrans en fixant des horaires.
+- Créer un échange apres avec le public afin de lutter contre l'isolement. Pour ainsi encourager le public à être acteur.
+- Initier les parents à la lecture d'histoire. Donner au parents des bibliographies de littérature orale. 
+- Initier les publics à raconter. 
 
         C'est à ce moment qu'il faut aller faire des interview
 
@@ -74,7 +75,6 @@ Activités clés que vous évaluez. Evaluation qualitatif et quantitatif de mon 
 
     Indicateur quantitatifs
     S'il y a plus de 5 personnes qui s'arrêttent et écoutent l'histoire jusqu'au bout
-
 
 SINGULARITE (avantage déloyale)
 Ne peut pas être facilement copié ou acheté. Qui je suis, quels sont mes valeurs ? Revendique ma culture, d'ou je viens. 
@@ -172,20 +172,33 @@ Ou raconter en réel si les conditions les procurent.
 
 
 3 phases : 
-- 1 vérifier le problème 
-- 2 vérifier la solution
-- 3 mvp (produit minimum viable)
+- 1 : vérifier le problème 
+- 2 : vérifier la solution
+- 3 : mvp (produit minimum viable)
 
-Je vais tout faire avec eux
-Au lieu de penser au spéctacteurs, je vaus vérifier avec eux que c'est bien. 
+L'idée est de vérifier que la problémaique observé correspond bien à la réalité et que la sollution apporté est également adéquat. Le but de mon entretient sera de vérifier avec le public et ou avec les responsables d'institutions si se que je pripose est juste. 
 
 Interview problème : 
-Je choisie le population a qui je veux proposer mes histoires. Vérifier qu'ils ne soient pas trop nombreux. 
-3 problèmes repérer. Poser mes questions en fonction. Proposer une solution en fonction de l'interview réalisé. 
+Je choisie la population a qui je veux proposer mes histoires. 
+Je vérifie que le pannel ne soie pas trop nombreux. 
+Exposer les 3 problèmes repérer. 
+Poser mes questions en fonction. 
+Proposer une solution en fonction de l'interview réalisé. 
 
-1- présentation de mon projet; je veux raconter des histoires et souhaite savoir si ça peux intérressé
-2- poser des questions en fonction du contexte, question fermé
-3- Raconte une histoire, exemple: ça m'énerve de ne pas connaitre mon voisinage
+1- Pésentation de mon projet; je veux raconter des histoires et souhaite savoir si ça peux intérresser
+2- Poser des questions en fonction du contexte, question fermé
+3- Raconte une histoire : raconter à travers la problématique observé le récit de mes intentions pour ainsi toucher mon interlocuteur à comprendre mon cheminement. Si on reprend l'exemple de mon activité ça donne ça : 
+
+"Depuis la nuit de temps les humains se racontent des hisoires. Avant l'arrivé de l'électicités et de la télévision les gens écrivaient collectivement et racontaient les hitsoires. Ainsi ces histoires populaire on été collecté. Leurs origines sont méconnu car les collecteurs se sont apperçue qu'on retouvait les mêmes structures d'histoires dans les quatres coins du monde avec juste en différences les couleurs de la culture. 
+
+Je pense qu'il est plus que nécessaire aujourd'hui dans nos société individualisé constitué de famille nucléaire, de personnes monoparental ect de personnes isolé. ***L'isolement*** (problème) que créer l'individualisme de nos système n'épargne aucune classe social. Le but étant de ***Créer du lien social*** (sollution) à travers le patrage d'histoire, d'un moment de convivialité. 
+
+La société capitaliste toujours en quête de progrès technologique nous a amené à utiliser de plus en plus ***d'écran***. Ainsi perturber nos capacité de concentration pour réaliser des tâches pratiques du quotidien et emmener nos plus jeune vers ***l'échec scolaire, car probmème de concentration fermer à l'apprentisage*** (probleme). 
+Ecouter dans des histoires peux accompagner à ***développer l'imaginaire*** (solution).
+
+Le spéctacle vivant en particulier le conte saisie l'instant présent pour faire vivre à ses auditeurs un passé au présent. Faire vivre l'instant. Elle permet également de ***comprendre ses conditions d'humain*** (solution) et ainsi de trouver ou de se poser des questions. Elle permet de réaliser un voyage dans le temps mais aussi de découvrir d'autre culture/tradition. Ainsi ouvrir l'esprit des publics."
+
+
 4- Classement des problème : exemple : Est ce que c'est penible pour toi de ne pas connaître tes voisins
 5- Fermer sa gueule, avoir le moins d'inetion possible et laisser parler la personne. Besoin de connaître la personne pour lui proposer quelque chose. 
 Est ce que je peux te revoir pour te requestionner. Prendre 3 minutes pour retranscrire mon questionnaire. 
