@@ -33,25 +33,26 @@ PROBLÈME (besoin)
 - L'usage récréatif des écrans au quotidiens, des adultes et des enfants nuie gravement à leurs santé. 
 - L'absence de l'imaginnaire, ne pas réussir à rêver empêche les personnes à se projeter dans le future. Donc à se créer un objectif et à avancer pour lui même. L'échec scolaire peux provenir de l'incapacité à se concentrer. A être disponible aux apprentissages. 
 
-SOLLUTION
-- Créer du lien social
-- développer l'imaginaire
-- Appréhender ses conditions d'humains (encourager à la réflexion, aux questionnements)
-
 ALTERNATIF AUX PROBLEME
 - Cadrer l'usage des écrans en fixant des horaires.
 - Créer un échange apres avec le public afin de lutter contre l'isolement. Pour ainsi encourager le public à être acteur.
 - Initier les parents à la lecture d'histoire. Donner au parents des bibliographies de littérature orale. 
 - Initier les publics à raconter. 
 
+COLLECTIF DE PUBLIC
+Tout public
+Propose des histoires en fonction des ages et des besoins des publics
+- crèche
+- primaire
+- collège
+- lycée
+- structure culturelle
         C'est à ce moment qu'il faut aller faire des interview
-
-SOLUTION
-3 fonconnalités essentielles
-
- - Développe l'imaginaire
- - Centrage personnel. Être dans le réel, dans l'instant présent. 
- - Développe l'écoute
+        
+SOLLUTION
+- Créer du lien social
+- développer l'imaginaire
+- Appréhender ses conditions d'humains (encourager à la réflexion, aux questionnements)
  
         Hypothèse solution, tester pour les valider par des interviews. 
 
@@ -61,11 +62,6 @@ Formuler une promesse. Objectif final de mon activité. (ex: déconstruire leur 
 Dire a quoi les gens ils vont avoir à faire 
 
 Raconte des contes aux couleurs de la mésopotamie, du kurdistan.  
-
-COLLECTIF DE PUBLIC
-
-Tout public
-Propose des histoires en fonction des ages et des besoins des publics
 
 INDICATEURS CLÉS
 Activités clés que vous évaluez. Evaluation qualitatif et quantitatif de mon action. 
@@ -171,7 +167,7 @@ Les entretiens clients sont une forme de validation qualitative très efficace p
 Ou raconter en réel si les conditions les procurent. 
 
 
-3 phases : 
+Les interviews sont sur 3 phases : 
 - 1 : vérifier le problème 
 - 2 : vérifier la solution
 - 3 : mvp (produit minimum viable)
@@ -210,6 +206,14 @@ Solution:
 2- Data : question fermé que tu pose pour vérifier que t'es bien dans le bon contexte pour la problématique
 3- Raconte l'histoire du contexte
 4- Demande de réagir sur le contexte; l'écouter, parler du prix. Voir comment la personne réagit. 
+
+Discours lors de l'entretien plus cool et adaptatif. Vérifier la croyance parler en turc dans le spectacle. 
+Bien déterminer les publics. Je veux savoir se que les personnes veulent entendre. Pas d'intérêt à ouvrir le pannel. 
+Vérifier que le pannel soit dispo
+partage ensemble une communauté de pratique
+personne impliqué
+est ce qu'il y en a plus de 500 ?
+
 
 Bienveillance: essayer de faire bien pour les autres
 Bientraitance: vérifier avec la personne que c'ets bien pour lui. Demander, le concentement. 
