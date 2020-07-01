@@ -187,6 +187,13 @@ Proposer une solution en fonction de l'interview réalisé.
 
 "Depuis la nuit de temps les humains se racontent des hisoires. Avant l'arrivé de l'électicités et de la télévision les gens écrivaient collectivement et racontaient les hitsoires. Ainsi ces histoires populaire on été collecté. Leurs origines sont méconnu car les collecteurs se sont apperçue qu'on retouvait les mêmes structures d'histoires dans les quatres coins du monde avec juste en différences les couleurs de la culture. 
 
+image de la télé stéréotypé, imaginaire façoné par la télé. Prendre du recul. La société de conson oriente les enfants dans un univers qui n'a pas de sens moral, code sexyste, violent, créer des complèxe. Les produits viennent des Etat Unis. 
+Les jeunes sont en déficite de sens, ça conduit à une perte de valeur, intéraction seine avec les gens. Pas facile de vivre sans le sens. Transmission d'expérience dans le conte. Spéctateur de ton imaginaire. C'est un problème parce que tout arrive prémaché. ne fabrique pas toi même de ton propre immaginaire. 
+
+L'enfant n'est pas nourri dans son imaginaire. déficite imaginaire, surstimulé à faire, regarder des écrans, n'a pas d'éffort à faire pour immaginé. On ne les laisse pas s'ennuyer. N'arrive pas à muscler son immagination. 
+
+On manque de diversité, on ne connais pas les autres. "les vieux c'est chiant ça pue la pisse". Manque de diversité ça conduit à utiliser nos préjugé comme base de connaissances. Le manque de connaissance de génération, de culture, on utilise nos stéréotype pour comprendre er ça conduit à la haine à la violence, des interprétation érroné. 
+
 Je pense qu'il est plus que nécessaire aujourd'hui dans nos société individualisé constitué de famille nucléaire, de personnes monoparental ect de personnes isolé. ***L'isolement*** (problème) que créer l'individualisme de nos système n'épargne aucune classe social. Le but étant de ***Créer du lien social*** (sollution) à travers le patrage d'histoire, d'un moment de convivialité. 
 
 La société capitaliste toujours en quête de progrès technologique nous a amené à utiliser de plus en plus ***d'écran***. Ainsi perturber nos capacité de concentration pour réaliser des tâches pratiques du quotidien et emmener nos plus jeune vers ***l'échec scolaire, car probmème de concentration fermer à l'apprentisage*** (probleme). 
@@ -213,6 +220,11 @@ Vérifier que le pannel soit dispo
 partage ensemble une communauté de pratique
 personne impliqué
 est ce qu'il y en a plus de 500 ?
+
+Public enfant de 6, 7 ans de l'école à côté.
+Les instites de cp à montpellier, instite calendrette
+Directeurs d'école
+
 
 
 Bienveillance: essayer de faire bien pour les autres
