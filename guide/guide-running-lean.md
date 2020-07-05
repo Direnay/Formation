@@ -29,9 +29,10 @@ Un outils a été créer afin de nous aider dans la conception du produit.
 PROBLÈME (besoin)
 3 problèmes essentiels. La problématique des gens. Je vais proposer quelque chose qui résoue ce problème. 
 
-- L'isolement des individue due à la société individualiste
-- L'usage récréatif des écrans au quotidiens, des adultes et des enfants nuie gravement à leurs santé. 
+- L'absence de sens de la société capitalisé 
+- manque de connaissance de la diversité générationnelle, culturelle et éthnique, celà est un térreau fertile aux stéréotype en tout genre
 - L'absence de l'imaginnaire, ne pas réussir à rêver empêche les personnes à se projeter dans le future. Donc à se créer un objectif et à avancer pour lui même. L'échec scolaire peux provenir de l'incapacité à se concentrer. A être disponible aux apprentissages. 
+L'usage récréatif des écrans au quotidiens, des adultes et des enfants nuie gravement à leurs santé. 
 
 ALTERNATIF AUX PROBLEME
 - Cadrer l'usage des écrans en fixant des horaires.
@@ -181,50 +182,47 @@ Exposer les 3 problèmes repérer.
 Poser mes questions en fonction. 
 Proposer une solution en fonction de l'interview réalisé. 
 
-1- Pésentation de mon projet; je veux raconter des histoires et souhaite savoir si ça peux intérresser
-2- Poser des questions en fonction du contexte, question fermé
-3- Raconte une histoire : raconter à travers la problématique observé le récit de mes intentions pour ainsi toucher mon interlocuteur à comprendre mon cheminement. Si on reprend l'exemple de mon activité ça donne ça : 
+1. Pésentation de mon projet; je veux raconter des histoires et souhaite savoir si ça peux intérresser
+2. Poser des questions en fonction du contexte, question fermé
+3. Raconte une histoire : raconter à travers la problématique observé le récit de mes intentions pour ainsi toucher mon interlocuteur à comprendre mon cheminement. Si on reprend l'exemple de mon activité ça donne ça : 
 
-"Depuis la nuit de temps les humains se racontent des hisoires. Avant l'arrivé de l'électicités et de la télévision les gens écrivaient collectivement et racontaient les hitsoires. Ainsi ces histoires populaire on été collecté. Leurs origines sont méconnu car les collecteurs se sont apperçue qu'on retouvait les mêmes structures d'histoires dans les quatres coins du monde avec juste en différences les couleurs de la culture. 
+"Depuis la nuit de temps les humains se racontent des hisoires. Avant l'arrivé de l'électicités et de la télévision les gens écrivaient collectivement et racontaient les hitsoires. Ainsi ces histoires populaire on été collecté. Leurs origines sont méconnu car les collecteurs se sont apperçue qu'on retouvait les mêmes structures d'histoires dans les quatres coins du monde avec juste en différences les couleurs de la culture.
+La société de consommation, occientale, nous individualise. Dés le plus jeune âge influencé par la télé ou le cinéma, l'immaginaire des enfants les orientent vers un ***univers qui n'a pas de sens moral, les codes sont sexyste, violent et créer des complèxes*** (problème).
+Le modèle libéraliste américain s'étend partout dans le monde. Ce qui conduit les jeunes en déficite de sens, à une perte de valeur. 
+Il est difficle de vivre sans avoir donné de sens à la vie. Pour s'y projeter, gagner en confiance en soi, apprendre, se connaître... 
+Par l'universalité du récit, des contes le spéctateur créer ses images et son imaginaire. A travers les multiples quêtes du héros les spéctateurs ***comprennent leurs conditions humaine*** (solution) et ainsi de trouver ou de se poser des questions. 
 
-image de la télé stéréotypé, imaginaire façoné par la télé. Prendre du recul. La société de conson oriente les enfants dans un univers qui n'a pas de sens moral, code sexyste, violent, créer des complèxe. Les produits viennent des Etat Unis. 
-Les jeunes sont en déficite de sens, ça conduit à une perte de valeur, intéraction seine avec les gens. Pas facile de vivre sans le sens. Transmission d'expérience dans le conte. Spéctateur de ton imaginaire. C'est un problème parce que tout arrive prémaché. ne fabrique pas toi même de ton propre immaginaire. 
-
-L'enfant n'est pas nourri dans son imaginaire. déficite imaginaire, surstimulé à faire, regarder des écrans, n'a pas d'éffort à faire pour immaginé. On ne les laisse pas s'ennuyer. N'arrive pas à muscler son immagination. 
-
-On manque de diversité, on ne connais pas les autres. "les vieux c'est chiant ça pue la pisse". Manque de diversité ça conduit à utiliser nos préjugé comme base de connaissances. Le manque de connaissance de génération, de culture, on utilise nos stéréotype pour comprendre er ça conduit à la haine à la violence, des interprétation érroné. 
-
-Je pense qu'il est plus que nécessaire aujourd'hui dans nos société individualisé constitué de famille nucléaire, de personnes monoparental ect de personnes isolé. ***L'isolement*** (problème) que créer l'individualisme de nos système n'épargne aucune classe social. Le but étant de ***Créer du lien social*** (sollution) à travers le patrage d'histoire, d'un moment de convivialité. 
+L'entre soi nous conduit au ***manque de connaissance de la diversité générationnelle, culturelle et éthnique, celà est un térreau fertile aux stéréotype en tout genre*** (problème). Peux en conduire certains à la haine et à la violence. Raconter des histoires aux couleurs et aux odeurs d'ailleurs permet au spéctateur de vivre un voyage au delas des frontières et ainsi ***lutter contre les stéréotypes*** (solutions). 
 
 La société capitaliste toujours en quête de progrès technologique nous a amené à utiliser de plus en plus ***d'écran***. Ainsi perturber nos capacité de concentration pour réaliser des tâches pratiques du quotidien et emmener nos plus jeune vers ***l'échec scolaire, car probmème de concentration fermer à l'apprentisage*** (probleme). 
-Ecouter dans des histoires peux accompagner à ***développer l'imaginaire*** (solution).
-
-Le spéctacle vivant en particulier le conte saisie l'instant présent pour faire vivre à ses auditeurs un passé au présent. Faire vivre l'instant. Elle permet également de ***comprendre ses conditions d'humain*** (solution) et ainsi de trouver ou de se poser des questions. Elle permet de réaliser un voyage dans le temps mais aussi de découvrir d'autre culture/tradition. Ainsi ouvrir l'esprit des publics."
+Ecouter dans des histoires peux accompagner à ***développer l'imaginaire*** (solution)."
 
 
-4- Classement des problème : exemple : Est ce que c'est penible pour toi de ne pas connaître tes voisins
-5- Fermer sa gueule, avoir le moins d'inetion possible et laisser parler la personne. Besoin de connaître la personne pour lui proposer quelque chose. 
-Est ce que je peux te revoir pour te requestionner. Prendre 3 minutes pour retranscrire mon questionnaire. 
-Je réajuste mon questionnaire ou mes problématiques. 
+4. Classement des problème : exemple : "Est ce que t'as pu observé que les jeunes sont en manque de sens ?"
+5. Être dans l'observation, écoute active. Ne pas dire se qu'on pense et laisser parler l'intérrogé. Avoir le moins d'intention possible. 
+Un second entrevue doit être envisagé. Prendre 3 minutes pour retranscrire mon questionnaire. 
+Je réajuste mon questionnaire ou mes problématiques en fonction des observations retenue. 
 Une fois que le public et les problématique sont ok je passe à l'étape solution
 
 Solution: 
-1- Présentation
-2- Data : question fermé que tu pose pour vérifier que t'es bien dans le bon contexte pour la problématique
-3- Raconte l'histoire du contexte
-4- Demande de réagir sur le contexte; l'écouter, parler du prix. Voir comment la personne réagit. 
+1. Présentation
+2. Data : question fermé que tu pose pour vérifier que t'es bien dans le bon contexte pour la problématique
+3. Raconte l'histoire du contexte
+4. Demande de réagir sur le contexte; l'écouter, parler du prix. Voir comment la personne réagit. 
 
 Discours lors de l'entretien plus cool et adaptatif. Vérifier la croyance parler en turc dans le spectacle. 
 Bien déterminer les publics. Je veux savoir se que les personnes veulent entendre. Pas d'intérêt à ouvrir le pannel. 
-Vérifier que le pannel soit dispo
+Vérifier que le pannel soit dispo. 
 partage ensemble une communauté de pratique
 personne impliqué
 est ce qu'il y en a plus de 500 ?
 
-Public enfant de 6, 7 ans de l'école à côté.
-Les instites de cp à montpellier, instite calendrette
-Directeurs d'école
-
+Public enfant de 6, 7 ans de l'école à côté. 
+1 instite maternelle
+Les instites de cp à montpellier, 
+instite calendrette
+2 Directeurs d'école
+2 éducatrices jeunes enfants travallant en crèche
 
 
 Bienveillance: essayer de faire bien pour les autres
