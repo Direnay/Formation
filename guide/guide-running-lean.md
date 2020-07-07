@@ -224,6 +224,14 @@ instite calendrette
 2 Directeurs d'école
 2 éducatrices jeunes enfants travallant en crèche
 
+si on veux observer si les histoires ouvrent les spéctateurs, raconter une histoire ou on parle de rascisme, de discrimination, de sexysme...
+reprendre temlate (en minute) reecrire l'histoire que je vais raconter. Vol d'histoire
+mettre 5, 6 questions fermé, donner le contexte, intro questionnaire de 24 minutes, me présenter je veux verifier que je suis bien sur la bonne route a qui je raconte les histoires. Dire pk je fais des interviews. J'ai remarqué quelque problematique que je vais te soumettre apres.
+Sensible aux questions de sexisme
+
+problématique
+classer les problème
+classer les problème
 
 Bienveillance: essayer de faire bien pour les autres
 Bientraitance: vérifier avec la personne que c'ets bien pour lui. Demander, le concentement. 
