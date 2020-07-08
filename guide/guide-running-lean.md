@@ -194,8 +194,7 @@ Par l'universalité du récit, des contes le spéctateur créer ses images et so
 
 L'entre soi nous conduit au ***manque de connaissance de la diversité générationnelle, culturelle et éthnique, celà est un térreau fertile aux stéréotype en tout genre*** (problème). Peux en conduire certains à la haine et à la violence. Raconter des histoires aux couleurs et aux odeurs d'ailleurs permet au spéctateur de vivre un voyage au delas des frontières et ainsi ***lutter contre les stéréotypes*** (solutions). 
 
-La société capitaliste toujours en quête de progrès technologique nous a amené à utiliser de plus en plus ***d'écran***. Ainsi perturber nos capacité de concentration pour réaliser des tâches pratiques du quotidien et emmener nos plus jeune vers ***l'échec scolaire, car probmème de concentration fermer à l'apprentisage*** (probleme). 
-Ecouter dans des histoires peux accompagner à ***développer l'imaginaire*** (solution)."
+La société capitaliste toujours en quête de progrès technologique nous a amené à utiliser de plus en plus ***d'écran***. Ainsi perturber nos capacité de concentration pour réaliser des tâches pratiques du quotidien et emmener nos plus jeune vers ***l'échec scolaire, car probmème de concentration fermer à l'apprentisage*** (probleme). Ecouter dans des histoires peux accompagner à ***développer l'imaginaire*** (solution)."
 
 
 4. Classement des problème : exemple : "Est ce que t'as pu observé que les jeunes sont en manque de sens ?"
@@ -229,9 +228,37 @@ reprendre temlate (en minute) reecrire l'histoire que je vais raconter. Vol d'hi
 mettre 5, 6 questions fermé, donner le contexte, intro questionnaire de 24 minutes, me présenter je veux verifier que je suis bien sur la bonne route a qui je raconte les histoires. Dire pk je fais des interviews. J'ai remarqué quelque problematique que je vais te soumettre apres.
 Sensible aux questions de sexisme
 
-problématique
-classer les problème
-classer les problème
+1. ACCUEILLIR - 2 min – préparer le terrain
+Je suis Diren AYDIN, nous allons discuter durant 32 min au sujet du développement de mon activité de conteuse. J'ai suivi la formation de base au métier de conteur l'an dernier. Je souhaite apporter cette arts dans les structures acueillant des jeunes à partir de 6 ans. J'aimerais voir des personnes qui encadrent des personnes de 6 ans et de leurs poser des questions. Je vais après cette intro vous poser quelque questions intime dont vous n'êtes pas obligé de répondre aux questions auquel vous ne voulez pas répondre. Dans un second temps je vais t'exposer mes observations. Je te demanderais ton point de vue sur le sujet. 
+
+2. RECUEILLIR LES DONNÉES PERSONNELLES - 2 min – tester le segment de clientèle
+Avez vous des enfants ? Quel âge ont-ils ?
+Lisez vous des contes ? Vous a t'on déjà raconté des histoires dans votre enfance ? Avez vous apréciez ces moments
+
+3. RACONTER UNE HISTOIRE - 2 min – définir le contexte du problème
+
+4. ÉTABLIR UN CLASSEMENT DES PROBLÈMES - 4 min – tester le problème
+"La société de consommation, occientale, nous individualise. Dés le plus jeune âge influencé par la télé ou le cinéma, l'immaginaire des enfants les orientent vers un ***univers qui n'a pas de sens moral, les codes sont sexyste, violent et créer des complèxes*** (problème).
+Le modèle libéraliste américain s'étend partout dans le monde. Ce qui conduit les jeunes en déficite de sens, à une perte de valeur. 
+Il est difficle de vivre sans avoir donné de sens à la vie. Pour s'y projeter, gagner en confiance en soi, apprendre, se connaître... 
+Par l'universalité du récit, des contes le spéctateur créer ses images et son imaginaire. A travers les multiples quêtes du héros les spéctateurs ***comprennent leurs conditions humaine*** (solution) et ainsi de trouver ou de se poser des questions. 
+
+L'entre soi nous conduit au ***manque de connaissance de la diversité générationnelle, culturelle et éthnique, celà est un térreau fertile aux stéréotype en tout genre*** (problème). Peux en conduire certains à la haine et à la violence. Raconter des histoires aux couleurs et aux odeurs d'ailleurs permet au spéctateur de vivre un voyage au delas des frontières et ainsi ***lutter contre les stéréotypes*** (solutions). 
+
+La société capitaliste toujours en quête de progrès technologique nous a amené à utiliser de plus en plus ***d'écran***. Ainsi perturber nos capacité de concentration pour réaliser des tâches pratiques du quotidien et emmener nos plus jeune vers ***l'échec scolaire, car probmème de concentration fermer à l'apprentisage*** (probleme). Ecouter dans des histoires peux accompagner à ***développer l'imaginaire*** (solution)."
+
+5. DÉCOUVRIR LE POINT DE VUE DU CLIENT - 15 min – tester le problème
+Etes vous sensible au sexisme ?
+Y a t'il du racisme au sein de l'école ? si oui envers quelles population ? Connaissent il leurs récits de vie ?
+Y a t'il du sexysme au sein de l'école (dans les classes) ?
+Les enfants joue t'il avec des jouets attribué à leur sexe ? 
+
+6. TERMINER L’ENTRETIEN - 2 min – intéresser le client et lui faire 2 demandes
+Dans mes contes j'axerais mes raconter vers ... et ...
+
+7. CONSIGNER LES RÉSULTATS - 5 min
+
+
 
 Bienveillance: essayer de faire bien pour les autres
 Bientraitance: vérifier avec la personne que c'ets bien pour lui. Demander, le concentement. 
