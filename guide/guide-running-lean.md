@@ -242,25 +242,19 @@ Est ce que tu trouve que la société est sexyste ?
 3. RACONTER UNE HISTOIRE - 2 min – définir le contexte du problème
 les enfants sont sursolicité, déficite d'attention, du mal a jouer seul, stimuler leur immaginaire, 
 
-"Dés le plus jeune âge les enfants sont influencé par la télé ou le cinéma, l'immaginaire des enfants les orientent vers un ***univers qui n'a pas de sens moral, les codes sont sexyste, violent et créer des complèxes*** (problème).
-Le modèle libéraliste américain s'étend partout dans le monde. Ce qui conduit les jeunes en déficite de sens, à une perte de valeur. 
-Il est difficle de vivre sans avoir donné de sens à la vie. Pour s'y projeter, gagner en confiance en soi, apprendre, se connaître... 
-
-L'entre soi nous conduit au ***manque de connaissance de la diversité générationnelle, culturelle et éthnique, celà est un térreau fertile aux stéréotype en tout genre*** (problème). Peux en conduire certains à la haine et à la violence.
-
-La société capitaliste toujours en quête de progrès technologique nous a amené à utiliser de plus en plus ***d'écran***. Ainsi perturber nos capacité de concentration pour réaliser des tâches pratiques du quotidien et emmener nos plus jeune vers ***l'échec scolaire, car probmème de concentration fermer à l'apprentisage*** (probleme).
-
 4. ÉTABLIR UN CLASSEMENT DES PROBLÈMES - 4 min – tester le problème
-Avez vous observer
+Avez vous observer la reproduction des stéréotype de genre ? les filles jouent entre elles et les garçons entre eux ?
+Est ce vous encadrer des enfants ayant des difficulté à se concentrer ? A rester sur place ? 
+Proposez vous au parents des accompagnements à la parentalité ? si oui quels sont les sujets abordé ? 
 
 5. DÉCOUVRIR LE POINT DE VUE DU CLIENT - 15 min – tester le problème
 Etes vous sensible au sexisme ?
 Y a t'il du racisme au sein de l'école ? si oui envers quelles population ? Connaissent il leurs récits de vie ?
 Y a t'il du sexysme au sein de l'école (dans les classes) ?
-Les enfants joue t'il avec des jouets attribué à leur sexe ? 
+Les enfants joue t'il avec des jouets stéréotypé ? 
 
 6. TERMINER L’ENTRETIEN - 2 min – intéresser le client et lui faire 2 demandes
-Dans mes contes j'axerais mes raconter vers ... et ...
+Dans mes contes j'axerais mes raconter vers la découverte d'une autre culture et l'égalité 
 
 7. CONSIGNER LES RÉSULTATS - 5 min
 
