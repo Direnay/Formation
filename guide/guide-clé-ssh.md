@@ -14,3 +14,5 @@ Logiquement à cette étape les clés permettent la syncronisation. Il faut dans
 La synchro ne fonctionne pas, j'ai des messages d'erreur. 
 
 Dans ces messages d'erreur il était noté que je devais préciser mon adresse mail et mon nom, j'ai copié ces deux lignes et compléter les mentions entre "" et j'ai collé les lignes dans le terminal. 
+
+Pour verifier si la synchronisation est faite j'ai noté la commande ***git pull*** pemet de recevoir les documents modifier sur internet***git push*** permet d'envoyer les document modifi"***git status*** permet de vérifier les status d'envoi
