@@ -10,10 +10,7 @@ Passons à la création de la clés.
 puis dans les paramètre aller dans ***ssh and gpg keys***
 - créer une nouvelle clé, la nommer, coller la ligne de code et enregistrer
 
-logiquement à cette étape les clés permettent la syncronisation. Il faut dans un second temps installer git dans le pc
-Chose que je n'arrive pas encore à faire car j'ai des messages d'erreur. 
+Logiquement à cette étape les clés permettent la syncronisation. Il faut dans un second temps installer git dans le pc.
+La synchro ne fonctionne pas, j'ai des messages d'erreur. 
 
-
-
-
-
+Dans ces messages d'erreur il était noté que je devais préciser mon adresse mail et mon nom, j'ai copié ces deux lignes et compléter les mentions entre "" et j'ai collé les lignes dans le terminal. 
